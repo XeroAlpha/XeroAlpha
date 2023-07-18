@@ -10,7 +10,7 @@
 	- Maybe later you'll find Kotlin and Go above.
 - I used to be a Bilibili Uploader, but [my account](https://space.bilibili.com/76999418/) is blocked now.
 	- I share [this account](https://space.bilibili.com/3493091245820646/) with other maintainers of CA.
-- You can contact me by [E-mail](mailto:projectxero@163.com) or Discord(ProjectXero#8378), a GPG public key is provided [here](./gpg.2023.asc).
+- You can contact me by [E-mail](mailto:projectxero@163.com) or Discord(projectxero1024), a GPG public key is provided [here](./gpg.2023.asc).
 
 <details><summary>SPOILER ALERT</summary>
 
